@@ -17,4 +17,6 @@
     
     // Doğru satış fiyatımızı hesaplayabiliriz
     var satisFiyati = (gelis + gider + kar + kargo) + (((gelis + gider + kar + kargo) * ((komisyon) * degisken)) / 100);
+
+    // Doğru satış fiyatı 111.8125₺ olarak belirlendi
   
