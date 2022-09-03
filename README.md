@@ -1,4 +1,4 @@
-# Javascript Komisyon Oranına Uygun Satış Fiyatı Hesaplama
+# Javascript Komisyon Oranına Uygun Satış Fiyatı Hesaplama ve PHP ile Birlikte Kullanımı
 #### Javascript ile e-Ticaret platformlarında sattığınız ürününüzün doğru satış fiyatını hesaplama
 
 ###### Çoğu satıcı komisyon oranına göre hesaplamayı tam anlayamadığı veya göz ardı ettiği için pazaryerlerinin komisyon oranları bu satıcıları maddi zarara uğratmaktadır.
