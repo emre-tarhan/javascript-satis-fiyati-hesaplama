@@ -21,12 +21,12 @@ Böylelikle ürünümüzün komisyon hariç fiyatı 100₺ oldu
 ###### Gördüğünüz üzere komisyonunu 10₺ olarak hesapladığımız üründen pazaryeri bizden ``11₺`` komisyon alıyor, yani ``1₺ zarar`` etmiş oluyoruz.  
 ###### Çünkü pazaryeri komisyonu ``110₺`` üzerinden alıyor.
 #
-Bunun önüne geçmek için çıkan sonucu **``1.18125``** sayısı ile çarptığımız takdirde belirlediğimiz kâr oranını tam olarak alabiliyoruz.
+Bunun önüne geçmek için çıkan sonucu **``1.18125``** değişkeni ile çarptığımız takdirde belirlediğimiz kâr oranını tam olarak alabiliyoruz.
 Çıkan sonuç ``111.8125₺`` oluyor.
 Sağlaması;
 ###### (111,80*10)/100 = 11,80,  
-###### 111,80 - 11,80 = 100₺ tam sonuç alabiliyoruz.
-
+###### 111,80 - 11,80 = 100₺ tam sonuç alabiliyoruz.  
+Eğer değişkeni işleme katmazsanız;  
 ###### (110*10)/100 = 11,
 ###### 110 - 11 = 99₺ yani zararda oluyoruz.
 Sizi büyük bir zarardan kurtardım 😁
